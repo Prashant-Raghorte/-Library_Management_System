@@ -135,7 +135,7 @@ def PenaltyList(APIVIEW):
 
 
 
-#ViewSet
+#ViewSet Class
 # class TeacherViewSet(ViewSet): 
 #     def list(self,request):
 #         print(f"139------{self.action}")
